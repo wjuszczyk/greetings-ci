@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/wjuszczyk/greetings-ci/compare/v0.2.0...v0.3.0) (2023-02-15)
+
+
+### Features
+
+* version  artifact ([4038733](https://github.com/wjuszczyk/greetings-ci/commit/4038733c7df996c79becb722361e2ed9290f2750))
+
+
+
 # [0.2.0](https://github.com/wjuszczyk/greetings-ci/compare/v0.1.2...v0.2.0) (2023-02-15)
 
 
