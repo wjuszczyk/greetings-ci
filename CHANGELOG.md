@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/wjuszczyk/greetings-ci/compare/v0.1.2...v0.2.0) (2023-02-15)
+
+
+### Features
+
+* upload artifact ([b63aa93](https://github.com/wjuszczyk/greetings-ci/commit/b63aa93a11e74bdf9a0c87e72c7048a4fedc95a5))
+
+
+
 ## [0.1.2](https://github.com/wjuszczyk/greetings-ci/compare/v0.1.1...v0.1.2) (2023-02-15)
 
 
