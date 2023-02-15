@@ -13,13 +13,6 @@ on:
   pull_request:
     branches: [ "artifact" ]
 
-  workflow_dispatch:
-    inputs:
-      myVersion:
-        description: 'Input Version' 
-      myValues:
-        description: 'Input Values'
-
 permissions:
   contents: write
 
